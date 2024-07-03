@@ -47,7 +47,7 @@ body {
 
 .main{
 margin: 10px;
-border: 2px solid rgb(49, 26, 154);
+border: 2px solid #064686;
 background:rgb(224, 218, 209);
 color: #074E84;
 }
@@ -102,7 +102,7 @@ color: #074E84;
     }
 
     .date-info{
-        font-size: 20px;
+        font-size: 21px;
         padding: 15px;
         
     }
